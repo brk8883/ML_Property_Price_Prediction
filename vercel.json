@@ -1,0 +1,9 @@
+{
+    "build": {
+      "env": {
+        "NODE_ENV": "production",
+        "PYTHON_VERSION": "3.9"
+      }
+    }
+  }
+  
