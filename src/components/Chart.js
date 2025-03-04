@@ -13,12 +13,12 @@ const ChartComponent = ({ actualPrices = [], predictedPrices = [] }) => {
     }
 
     chartRef.current = new Chart(ctx, {
-      type: "radar",
+      type: "line",
       data: {
         labels: actualPrices.map((_, index) => `House ${index + 1}`),
         datasets: [
-          { label: "Actual Price ($1000)", data: actualPrices, backgroundColor: "black" },
-          { label: "Predicted Price ($1000)", data: predictedPrices, backgroundColor: "brown" }
+          { label: "Actual Price (in $1000)", data: actualPrices, backgroundColor: "black" },
+          { label: "Predicted Price (in $1000)", data: predictedPrices, backgroundColor: "brown" }
         ]
       },
       options: {

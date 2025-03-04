@@ -16,13 +16,13 @@ const net = new brain.NeuralNetwork({
 });
 
 // Save Model to LocalStorage
-export const saveModel = () => {  // ✅ Now explicitly exported
+export const saveModel = () => { 
   localStorage.setItem('model', JSON.stringify(net.toJSON()));
   console.log("💾 Model saved to LocalStorage.");
 };
 
 // Load Model from LocalStorage
-export const loadModel = () => {  // ✅ Also explicitly exported
+export const loadModel = () => {  
   const savedModel = localStorage.getItem('model');
   if (savedModel) {
     net.fromJSON(JSON.parse(savedModel));
