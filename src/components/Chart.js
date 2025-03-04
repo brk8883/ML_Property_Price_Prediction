@@ -7,7 +7,6 @@ const ChartComponent = ({ actualPrices = [], predictedPrices = [] }) => {
   useEffect(() => {
     const ctx = document.getElementById("chartCanvas");
 
-    // ✅ Destroy previous chart instance before creating a new one
     if (chartRef.current !== null) {
       chartRef.current.destroy();
     }
@@ -17,8 +16,8 @@ const ChartComponent = ({ actualPrices = [], predictedPrices = [] }) => {
       data: {
         labels: actualPrices.map((_, index) => `House ${index + 1}`),
         datasets: [
-          { label: "Actual Price (in $1000)", data: actualPrices, backgroundColor: "black" },
-          { label: "Predicted Price (in $1000)", data: predictedPrices, backgroundColor: "brown" }
+          { label: "Actual Price ($1000s)", data: actualPrices, borderColor: "black", backgroundColor: "rgba(0, 0, 0, 0.1)", tension: 0.3 },
+          { label: "Predicted Price ($1000s)", data: predictedPrices, borderColor: "brown", backgroundColor: "rgba(165, 42, 42, 0.1)", tension: 0.3 }
         ]
       },
       options: {
