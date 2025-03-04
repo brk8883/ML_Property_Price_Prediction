@@ -1,0 +1,394 @@
+[
+    {
+        "area": 1360,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "location": 0,
+        "age": 1,
+        "price": 764
+    },
+    {
+        "area": 4272,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "location": 2,
+        "age": 47,
+        "price": 673
+    },
+    {
+        "area": 3592,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "location": 0,
+        "age": 34,
+        "price": 1051
+    },
+    {
+        "area": 966,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 32,
+        "price": 462
+    },
+    {
+        "area": 4926,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 48,
+        "price": 936
+    },
+    {
+        "area": 3944,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "location": 0,
+        "age": 25,
+        "price": 924
+    },
+    {
+        "area": 3671,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "location": 1,
+        "age": 40,
+        "price": 817
+    },
+    {
+        "area": 3419,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "location": 2,
+        "age": 45,
+        "price": 711
+    },
+    {
+        "area": 630,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 1,
+        "price": 651
+    },
+    {
+        "area": 2185,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 16,
+        "price": 826
+    },
+    {
+        "area": 1269,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "location": 2,
+        "age": 39,
+        "price": 508
+    },
+    {
+        "area": 2891,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 5,
+        "price": 789
+    },
+    {
+        "area": 2933,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 22,
+        "price": 889
+    },
+    {
+        "area": 1684,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "location": 2,
+        "age": 29,
+        "price": 550
+    },
+    {
+        "area": 3885,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 3,
+        "price": 992
+    },
+    {
+        "area": 4617,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 12,
+        "price": 767
+    },
+    {
+        "area": 3404,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "location": 1,
+        "age": 26,
+        "price": 768
+    },
+    {
+        "area": 974,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "location": 2,
+        "age": 16,
+        "price": 475
+    },
+    {
+        "area": 1582,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 37,
+        "price": 364
+    },
+    {
+        "area": 3058,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 22,
+        "price": 721
+    },
+    {
+        "area": 2547,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "location": 1,
+        "age": 29,
+        "price": 776
+    },
+    {
+        "area": 3247,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "location": 1,
+        "age": 14,
+        "price": 676
+    },
+    {
+        "area": 1475,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "location": 0,
+        "age": 28,
+        "price": 931
+    },
+    {
+        "area": 2306,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "location": 0,
+        "age": 5,
+        "price": 1010
+    },
+    {
+        "area": 689,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "location": 0,
+        "age": 47,
+        "price": 704
+    },
+    {
+        "area": 3234,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 49,
+        "price": 605
+    },
+    {
+        "area": 3505,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 30,
+        "price": 880
+    },
+    {
+        "area": 2399,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "location": 2,
+        "age": 46,
+        "price": 587
+    },
+    {
+        "area": 1767,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "location": 0,
+        "age": 5,
+        "price": 906
+    },
+    {
+        "area": 2028,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 12,
+        "price": 638
+    },
+    {
+        "area": 3702,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 16,
+        "price": 718
+    },
+    {
+        "area": 4056,
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 26,
+        "price": 793
+    },
+    {
+        "area": 4390,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 26,
+        "price": 617
+    },
+    {
+        "area": 1146,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 48,
+        "price": 428
+    },
+    {
+        "area": 3388,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "location": 0,
+        "age": 21,
+        "price": 906
+    },
+    {
+        "area": 2935,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "location": 0,
+        "age": 39,
+        "price": 955
+    },
+    {
+        "area": 1100,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 36,
+        "price": 448
+    },
+    {
+        "area": 2863,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 33,
+        "price": 600
+    },
+    {
+        "area": 2561,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "location": 0,
+        "age": 30,
+        "price": 1036
+    },
+    {
+        "area": 741,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "location": 0,
+        "age": 37,
+        "price": 580
+    },
+    {
+        "area": 2541,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "location": 0,
+        "age": 23,
+        "price": 888
+    },
+    {
+        "area": 3324,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 10,
+        "price": 822
+    },
+    {
+        "area": 3112,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "location": 1,
+        "age": 5,
+        "price": 711
+    },
+    {
+        "area": 1863,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "location": 2,
+        "age": 36,
+        "price": 574
+    },
+    {
+        "area": 1978,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "location": 2,
+        "age": 34,
+        "price": 389
+    },
+    {
+        "area": 3056,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "location": 2,
+        "age": 31,
+        "price": 603
+    },
+    {
+        "area": 1275,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "location": 1,
+        "age": 10,
+        "price": 597
+    },
+    {
+        "area": 4514,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "location": 1,
+        "age": 19,
+        "price": 943
+    },
+    {
+        "area": 534,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "location": 2,
+        "age": 32,
+        "price": 319
+    }
+]
